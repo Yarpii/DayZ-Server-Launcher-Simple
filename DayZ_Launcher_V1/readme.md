@@ -1,4 +1,6 @@
-﻿GameServerManager/
+﻿
+```
+GameServerManager/
 │
 ├── Program.cs
 │
@@ -23,3 +25,5 @@
 │   └── launchSettings.json
 │
 └── config.json
+
+```
