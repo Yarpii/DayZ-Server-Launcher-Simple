@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "GameServerManager": {
+      "commandName": "Project",
+      "commandLineArgs": "config.json",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "GameServerManager (No Config)": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ServerPath": "C:\\GameServers\\dayZ\\DayZServer\\DayZServer_x64.exe",
+  "Port": 2302,
+  "ProfilesFolder": "C:\\GameServers\\dayZ\\profile",
+  "ConfigFile": "C:\\GameServers\\dayZ\\serverDZ.cfg",
+  "ClientMods": "C:\\GameServers\\dayZ\\DayZServer\\@myMod1;",
+  "ServerMods": "C:\\GameServers\\dayZ\\DayZServer\\@myMod2;",
+  "MaxCpuCores": 4,
+  "MaxMemoryMB": 8192,
+  "RestartDelaySeconds": 10,
+  "ScheduledRestartTimes": [
+    "03:00",
+    "09:00",
+    "15:00",
+    "21:00"
+  ],
+  "RestartWarningMinutes": 5
+}
